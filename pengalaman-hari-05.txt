@@ -1,0 +1,1 @@
+Setelah menjalankan git restore, perubahan saya hilang dan file kembali seperti pada comit terakhir.
