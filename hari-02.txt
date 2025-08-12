@@ -1,0 +1,1 @@
+Perintah git init digunakan untuk membuat repository Git baru di folder yang kita pilih. Perintah ini akan membuat folder tersembunyi bernama .git yang berisi semua informasi dan riwayat perubahan proyek. setelah menjalankan git init, kita bisa mulai melacak perubahan file, melakukan commit, dan menggunakan perintah Git lainnya.
