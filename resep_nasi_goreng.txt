@@ -17,5 +17,3 @@ Resep nasi goreng sederhana yang bisa dibuat oleh siapa saja dalam waktu singkat
 5. Sajikan selagi hangat.
 
 Catatan: Tambahkan irisan timun agar lebih segar
-
-"docs: Menambahkan catatan pada resep"
