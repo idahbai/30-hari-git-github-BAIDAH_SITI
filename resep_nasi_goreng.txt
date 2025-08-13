@@ -15,3 +15,7 @@ Resep nasi goreng sederhana yang bisa dibuat oleh siapa saja dalam waktu singkat
 3. Masukkan nasi dan aduk rata.
 4. Tambahkan kecap, garam, dan merica. Aduk hingga warna merata   dan koreksi rasa.
 5. Sajikan selagi hangat.
+
+Catatan: Tambahkan irisan timun agar lebih segar
+
+"docs: Menambahkan catatan pada resep"
