@@ -1,0 +1,1 @@
+pull berhasil, perubahan dari web sudah masuk ke lokal.
